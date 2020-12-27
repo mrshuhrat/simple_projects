@@ -5,6 +5,7 @@
 body {
   font-family: 'Arial', 'Roboto', sans-serif;
   margin: 0;
+  background: #f6f7fb;
 }
 
 .container {
@@ -16,4 +17,17 @@ body {
 
 .title {
   text-align: center;
+}
+
+li {
+  margin: 10px 0;
+}
+
+li a {
+  color: #3350c5;
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline;
 }
